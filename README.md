@@ -10,8 +10,8 @@ Currently, I am working as a **Software Engineer** at **_Accubits Technologies I
 
 ### Accubits Technologies Inc. | Software Engineer | July 2021 - Present
 
-- Main developer for a decentralized task management tool - **[Taskdapp](https://taskdapp.io)**
-- Server side scripting using ExpressJS for API development for different projects.
+- Main developer for a decentralized task management platform - **[Taskdapp](https://taskdapp.io)**
+- Backend development using ExpressJS for different projects.
 - Frontend engineer for **Excel2web** - a tool to convert spreadsheet files to a database.
 - Integrated Blockpass KYC for a client project.
 

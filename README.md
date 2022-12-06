@@ -1,18 +1,27 @@
 # Hey 👋!
 
-My name is **Mazen Maliyakkal**. I am from Malappuram, Kerala, India. I have finished my Bachelor's degree in **Computer Science & Engineering** from **_N.S.S College of Engineering_** under **APJ Abdul Kalam Technological University** on July 2021.
+I'm a full-stack engineer, who loves problem solving as well as building cool products, working in projects of various sectors, experienced in designing and building critical features, keeping in mind human experience, scalability, and maintainability.
 
-I have started coding with C++ from 2015 after my High School studies. Lately, I have found myself using Javascript more, writing back-end in ExressJS and font-end in ReactJS for a few freelance projects using databases like Postgres and MongoDB. I have a few hobby projects in _GTK_ using _Rust_ and _Vala_.
+My contribution in my organisation is mostly on designing, building and maintaining cloud infrastructure, backend APIs & services, improving code quality, as well as exploring and partaking in system design for various components / projects. 
 
-Currently, I am working as a **Software Engineer** at **_Accubits Technologies Inc_**.
+Skilled in Javascript / Typescript (React / Express / NodeJS), Django REST Framework and SQL, with good experience in AWS and Azure Cloud Services. Engineering professional with a Bachelor of Technology in Computer Science and Engineering degree from N. S. S College of Engineering, Palakkad, Kerala.
+
+Profession aside, I’m a Linux (especially Desktop Linux) and Open Source enthusiast, I have a couple of hobby projects for GNOME Desktop and Elementary OS from my college days. My other experiences includes C++, Rust (With GTK for Linux Desktop Apps), Flutter (Android), as well as 3D modelling with Blender, which was during my student years.
 
 # Work Experience
 
-### Accubits Technologies Inc. | Software Engineer | July 2021 - Present
 
-- Main developer for a decentralized task management platform - **[Taskdapp](https://taskdapp.io)**
+### Voxxup | Software Engineer | March 2022 - Present
+
+- Design / Develop / Maintain Cloud infrastructure for various projects in AWS / Azure
+- Design and develop relational databases according to project requirements
+- Backend development for APIs and services with ExpressJS and Django REST Framework
+
+
+### Accubits Technologies Inc. | Software Engineer | July 2021 - Feb 2022
+
 - Backend development using ExpressJS for different projects.
-- Frontend engineer for **Excel2web** - a tool to convert spreadsheet files to a database.
+- Frontend engineer for a tool to convert spreadsheet files to a database.
 - Integrated Blockpass KYC for a client project.
 
 # Projects

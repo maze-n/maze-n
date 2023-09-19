@@ -47,7 +47,3 @@ Profession aside, I’m a Linux (especially Desktop Linux) and Open Source enthu
 - B.Tech in Computer Science & Engineering with elective in Cloud Computing. GPA: 7.71
 - Undergraduate Coursework: Data Structures; Algorithms; Logic System Design, Object Oriented Programming, Operating Systems; Databases; Mobile Computing; Machine Learning.
 - Active member of Free and Open Source Software Cell [(FOSSNSS)](https://fossnss.org)
-
- # Overview of my Github contributions
-
-![](https://github-readme-stats.vercel.app/api?username=maze-n&count_private=true&theme=dark&show_icons=true)

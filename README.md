@@ -40,7 +40,7 @@ Profession aside, I’m a Linux (especially Desktop Linux) and Open Source enthu
 
 # Education
 
-### B.Tech in Computer Science & Engineering - 2017-202
+### B.Tech in Computer Science & Engineering - 2017-2021
 
 **N.S.S College of Engineering**
 
